@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1052064112157-t1hf5505erg65ba4p1eli47nh1cno5af.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1052064112157-t1hf5505erg65ba4p1eli47nh1cno5af</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDixY7YHO6dRx8LvjZD-_N6UOdUjipwnTY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1052064112157</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.quizLearnClojure</string>
+	<key>PROJECT_ID</key>
+	<string>quiz-learn-clojure-7d7b9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quiz-learn-clojure-7d7b9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1052064112157:ios:e346d124ce33d18a7630f4</string>
+	<key>DATABASE_URL</key>
+	<string>https://quiz-learn-clojure-7d7b9.firebaseio.com</string>
+</dict>
+</plist>
